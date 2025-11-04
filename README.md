@@ -5,7 +5,7 @@
 &nbsp&nbsp
 </p>
 
-- 💼 Current job: **Frontend developer** at Universidad de Málaga + Gaba Energía.
+- 💼 Current job: **Frontend developer** at Aubay Spain.
 
 - 🤓 Studying: **Higher Education in Multiplatform Application Development**.  
 
